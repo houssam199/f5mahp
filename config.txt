@@ -1,0 +1,6 @@
+token=NDY1MzY1ODM2MDk0MzczODg4.Dqg1dw.eKd2Tg-qHXtkLk7UfJtB-ePyFsI
+owner=494550922328801302
+prefix=FF
+game=Tybe ffhelp
+stayinchannel=true
+songinstatus=false
